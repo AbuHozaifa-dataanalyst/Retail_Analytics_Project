@@ -1,0 +1,5 @@
+ProductID,ProductName,Category,CostPerUnit,ReorderPoint
+P101,Product_1,Dairy,31.38,37
+P102,Product_2,Produce,5.27,36
+P103,Product_3,Produce,38.37,21
+P104,Product_4,PersonalCare,26,47
